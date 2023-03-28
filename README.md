@@ -14,6 +14,6 @@
     
   May the force 
     be with you
-  <img src="https://media.giphy.com/media/08AtjJVKoPzcVNGGFJ/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/08AtjJVKoPzcVNGGFJ/giphy.gif" width="50px"/>
 </h1>
 </div>
