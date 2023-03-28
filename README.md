@@ -12,7 +12,8 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=LukeMenti&style=flat-square&color=blue" alt=""/>
     
-  May the force be with you
-  <img src="https://media.giphy.com/media/08AtjJVKoPzcVNGGFJ/giphy.gif" width="100px"/>
+  May the force 
+    be with you
+  <img src="https://media.giphy.com/media/08AtjJVKoPzcVNGGFJ/giphy.gif" width="500px"/>
 </h1>
 </div>
