@@ -19,5 +19,5 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LukeMenti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
