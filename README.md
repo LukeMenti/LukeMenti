@@ -16,6 +16,6 @@
 </h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LukeMenti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMenti&count_private=true)
 
 </div>
