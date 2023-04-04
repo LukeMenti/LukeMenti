@@ -5,9 +5,6 @@
 
   
 
-  
-    <img src="https://komarev.com/ghpvc/?username=LukeMenti&style=flat-square&color=blue" alt=""/>
-    
     
 
 
