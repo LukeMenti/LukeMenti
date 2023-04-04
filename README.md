@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif?cid=ecf05e47app1q2qop4ygq9mrdxle2q2yr7rqb17nlu2xy9zc&rid=giphy.gif&ct=g" width="500"/>
   <div id="badges">
   
-
+![](https://komarev.com/ghpvc/?username=lukementi&label=PROFILE+VIEWS)
   
 
     
