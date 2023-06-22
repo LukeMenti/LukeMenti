@@ -15,9 +15,6 @@
 
 
 
-  May the force 
-    be with you
-  <img src="https://media.giphy.com/media/zCV6yYYnYZejS/giphy.gif?cid=ecf05e47ou59gjg4grw5lzw9v3psrjug2tp3qc16xvusysdl&rid=giphy.gif&ct=g" width="30px"/>
 </h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LukeMenti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats) 
